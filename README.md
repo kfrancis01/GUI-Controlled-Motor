@@ -16,3 +16,6 @@ Insert links
 
 ![alt text](C:\Users\Kea\Pictures\Robotics\partial_ard_chassis.jpg)
 
+## Wireless Connections
+
+The hook ups and bluetooth connections I use are based on my undergraduate social robotics research. There is a set up document.
